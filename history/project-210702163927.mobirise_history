@@ -76,7 +76,9 @@
     "witsec-white-label": true,
     "uniqCompNum": 27,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -84,7 +86,7 @@
         "main": true,
         "title": "ACM | BALANCES",
         "meta_descr": "The 1st ACM International Workshop on\nBig Data and Machine Learning for Smart Buildings and Cities",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-SL3DC999K7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-SL3DC999K7');\n</script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
