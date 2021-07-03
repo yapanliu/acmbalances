@@ -76,9 +76,7 @@
     "witsec-white-label": true,
     "uniqCompNum": 30,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
